@@ -88,8 +88,8 @@ These repositories showcase my coding skills, contributions to open-source, and 
 </div>
 
 <div align="center">
-<a href="https://github.comCNBheitorgustavo9/uBlock-issues">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?usernameCNBheitorgustavo9&repo=uBlock-issues&theme=buefy" />
+<a href="https://github.comCNBheitorgustavo9/amplifier-module-hooks-concise-display">
+  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?usernameCNBheitorgustavo9&repo=amplifier-module-hooks-concise-display&theme=buefy" />
 </a>
 
 <a href="https://github.comCNBheitorgustavo9/Noxionite">
